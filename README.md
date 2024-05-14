@@ -22,9 +22,9 @@ Built on nearly the same codebase as Polkadot, [Kusama](https://kusama.network/u
 
 * Join the [OpenGuild](https://discord.gg/GVP6tbG3) developer community on Discord
 * Join the developer community on the [Substrate StackExchange](https://substrate.stackexchange.com/)
-* Join the [Polkadot Community Discord](https://discord.gg/Vc8V2nMmgP) server and participate in hackathon dedicated channel
+* Join the [Polkadot Community Discord](https://discord.gg/Vc8V2nMmgP) server
 
-## LEARNING MATERIALS FOR OPEN GUILD MEMEBERS
+## LEARNING MATERIALS FOR OPEN GUILD MEMBERS
 
 ### Get started with [Polkadot Development Roadmap](https://roadmap.sh/r?id=659a4664ae22c12523369370)
 To simplify your onboarding experience we designed an amazing learning and building journey in [Polkadot Development Roadmap](https://roadmap.sh/r?id=659a4664ae22c12523369370)
@@ -90,7 +90,7 @@ Important and useful tooling can be found in the [Substrate Documentation, locat
 * [Web3 MOOC: Blockchain Fundamentals](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J)
 
 ### Inspiration
-* [Awesome Substrate List](https://github.com/substrate-developer-hub/awesome-substrate) - A curated list of awesome Substrate projects, community maintained libraries, tools and other inspiring resources.
+* [Awesome Substrate List](https://github.com/substrate-developer-hub/awesome-substrate) - A curated list of awesome Substrate projects, community-maintained libraries, tools, and other inspiring resources.
 * [Substrate Builders Program](https://substrate.io/ecosystem/substrate-builders-program/?utm_source=devpost&utm_medium=referral&utm_campaign=hackathon%20north%20america&utm_content=technical%20resources) ([read the blog post](https://www.parity.io/blog/substrate-builders-program-update-builders-for-builders?utm_source=devpost&utm_medium=referral&utm_campaign=hackathon%20north%20america&utm_content=technical%20resources))
 * [Web3 Foundation Grant Program](https://web3.foundation/grants/) ([Details managed in Github](https://github.com/w3f/Grants-Program/))
 * [Web3 Foundation Grant RFPs](https://github.com/w3f/Grants-Program/tree/master/rfps)
@@ -107,7 +107,7 @@ Important and useful tooling can be found in the [Substrate Documentation, locat
 
 ## ECOSYSTEM RESOURCES
 
-**FYI. All of our ecosystem teams have a channel open for support on our Discord.**
+**FYI. Our ecosystem teams have a channel open for support on our Discord.**
 
 ### Phala Network
 
@@ -116,7 +116,7 @@ Important and useful tooling can be found in the [Substrate Documentation, locat
 * [The tutorial](https://wiki.phala.network/en-us/build/developer/fat-contract-tutorial/)
 * Phala Network [core blockchain repo](https://github.com/Phala-Network/phala-blockchain)
 * [Frontend UI repo](https://github.com/Phala-Network/js-sdk)
-* Phala on [Discord](https://discord.com/invite/myBmQu5) - Welcome to join #dev and #hackathon channels on their Discord server if you have any questions.
+* Phala on [Discord](https://discord.com/invite/myBmQu5) - Welcome to join #dev channels on their Discord server if you have any questions.
 
 ### Tanssi Network
 
