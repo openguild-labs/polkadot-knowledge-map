@@ -2,7 +2,7 @@
 
 ## GETTING STARTED
 
-**No matter your level of familiarity with blockchain development, we are here to get you started and ready for the hackathon!**
+**No matter your level of familiarity with blockchain development, we are here to get you started and ready to become a Polkadot Ninja!**
 
 A structured learning pathway with consolidated resources is made available for you to go through at your own pace. Read and watch all that has been provided to help you gain a better understanding of what awaits you in the Dotsama ecosystem!
 
