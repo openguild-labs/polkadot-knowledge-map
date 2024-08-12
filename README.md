@@ -32,7 +32,7 @@ To simplify your onboarding experience we designed an amazing learning and build
 You can also check out the [Polkadot Wiki](https://wiki.polkadot.network/?utm_source=devpost&utm_medium=referral&utm_campaign=hackathon%20north%20america&utm_content=technical%20resources) and the [Substrate Knowledge Map for Hackathon Participants](https://github.com/substrate-developer-hub/hackathon-knowledge-map). Please reach out to OpenGuild's team members if you have any questions. 📝
 
 ### Technical Support 🛠️
-* Reach out the the OpenGuild support engineers on the [OpenGuild Community Discord Channel](https://discord.gg/GVP6tbG3) 🔧
+* Reach out to the OpenGuild support engineers on the [OpenGuild Community Discord Channel](https://discord.gg/GVP6tbG3) 🔧
 * Reach out to the Polkadot support engineers on the [Polkadot Community Discord Channel](https://discord.gg/Vc8V2nMmgP) 🌐. 
 * For commonly asked questions, you can also take a look at [Substrate StackExchange](https://substrate.stackexchange.com/). You can ask here as well, but please make sure to follow the [guidelines](https://substrate.stackexchange.com/help/how-to-ask). ✅
 * Take part in OpenGuild's office hours 🕒.
@@ -117,6 +117,54 @@ Important and useful tooling can be found in the [Substrate Documentation, locat
 * Phala Network [core blockchain repo](https://github.com/Phala-Network/phala-blockchain)
 * [Frontend UI repo](https://github.com/Phala-Network/js-sdk)
 * Phala on [Discord](https://discord.com/invite/myBmQu5) - Welcome to join #dev channels on their Discord server if you have any questions.
+
+## AI Agents in Ajuna and Phala Integration 🤖
+
+Ajuna is a decentralized gaming platform built on Polkadot, and Phala Network provides privacy-preserving computation, making it ideal for integrating AI Agents into games. This track will guide you through building AI Agents on Ajuna using Phala’s confidential computing technology.
+
+### Why Integrate AI Agents with Ajuna and Phala?
+
+- **Confidential Computing:** Phala’s TEE (Trusted Execution Environment) allows AI computations to be done privately, ensuring game logic and AI behaviors are not exposed or tampered with.
+- **Scalability:** By leveraging Polkadot's interoperability and Phala’s secure off-chain computation, AI agents can be more scalable and efficient.
+- **True Ownership:** Integrating AI with NFTs allows for unique, evolving digital assets that players truly own.
+
+### Key Resources for Building AI Agents:
+
+1. **Phala Developer Documentation:**
+   - [Phala Network Developer Documentation](https://wiki.phala.network/en-us/build/developer/intro/) - Start with the basics of Phala Network’s architecture and how to build on it.
+   - [AI Agent Tutorial](https://wiki.phala.network/en-us/build/developer/ai-agent-tutorial/) - A step-by-step guide to building AI Agents using Phala's confidential computing.
+
+2. **Ajuna SDK:**
+   - [Ajuna SDK Documentation](https://docs.ajuna.io/) - Use this toolkit to integrate AI Agents into Ajuna-based games.
+   - [Ajuna GitHub Repository](https://github.com/AjunaNetwork) - Access SDKs, tools, and examples to build and manage decentralized games.
+
+3. **Confidential AI Computing with Phala:**
+   - [Phala Confidential Computing](https://wiki.phala.network/en-us/build/developer/confidential-computing/) - Learn how Phala's TEE works and how to leverage it for secure AI computation.
+   - [Phala GitHub Repository](https://github.com/Phala-Network) - Explore codebases and examples on integrating confidential AI computations.
+
+4. **Combining AI Agents with NFTs:**
+   - [Unique Network SDK](https://docs.unique.network/build/sdk/getting-started.html) - Use this SDK to create NFTs that can be controlled or influenced by AI Agents.
+   - [Creating and Managing NFTs](https://docs.unique.network/build/nfts/introduction.html) - Learn how to integrate AI-driven behaviors into NFTs for more dynamic in-game assets.
+
+5. **Community and Support:**
+   - [Ajuna Discord](https://discord.gg/ajuna) - Join the community for support and discussions on integrating AI with gaming.
+   - [Phala Discord](https://discord.com/invite/myBmQu5) - Engage with Phala developers to troubleshoot and optimize AI Agents.
+
+6. **Workshops and Tutorials:**
+   - **Phala x Ajuna Workshop:** Participate in joint workshops to learn about integrating AI into decentralized games.
+   - **YouTube Learning Sessions:** Watch recorded sessions and tutorials on [Ajuna's YouTube channel](https://www.youtube.com/channel/UCB7PbjuZLEba_znc7mEGNgw) and [Phala's YouTube channel](https://www.youtube.com/c/PhalaNetwork).
+
+### Practical Use Cases:
+
+- **AI-Driven NPCs:** Create non-player characters that evolve based on player interactions and confidential AI computations.
+- **Dynamic In-Game Economy:** Use AI to manage in-game resources, economies, and NPC behaviors based on real-time data.
+- **Personalized Gaming Experiences:** Leverage AI to adapt the game environment and challenges to individual player styles.
+
+### Next Steps:
+
+- Start experimenting with AI integration in your Ajuna game using the provided resources.
+- Reach out to community support channels for any technical assistance.
+- Share your AI-driven game projects with the Polkadot and Phala communities for feedback and collaboration.
 
 ### Tanssi Network 💃
 
