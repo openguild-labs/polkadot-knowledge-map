@@ -1,4 +1,4 @@
-# Polkadot-knowledge-map 🚀
+# Polkadot Knowledge Map 🚀
 
 ## GETTING STARTED 🌟
 
